@@ -4,7 +4,7 @@ function sumar(int $numero1 = 0, int $numero2 = 0){ //parametros
     echo $numero1+$numero2;
 }
 
-sumar(2, 2); //argumentos
+sumar(numero2: 2, numero1: 2); //argumentos
 
 
 
